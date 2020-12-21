@@ -1,4 +1,4 @@
-# azure-fundamentals-training
+# Microsoft Azure Fundamentals Training
 
 ## Day 1
 
