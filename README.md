@@ -70,3 +70,11 @@
 
 ## Day 2
 
+* network security priority
+  * if matches one policy then won't go further down!
+  * last rule is deny all
+* key vault
+* RBAC == IAM
+* readonly lock is at azure level. not at machine level.
+  * e.g. you can still modify the machine configs
+* security/diagnosis in a layered approach.
